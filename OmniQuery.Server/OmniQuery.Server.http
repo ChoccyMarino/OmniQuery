@@ -1,0 +1,6 @@
+@OmniQuery.Server_HostAddress = http://localhost:5178
+
+GET {{OmniQuery.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OmniQuery.Server", "OmniQuery.Server\OmniQuery.Server.csproj", "{D9B6325D-E795-4CE1-8338-C9C1511F8E0F}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "omniquery.client", "omniquery.client\omniquery.client.esproj", "{BF987D8C-C21D-4446-B78C-BC28B83A6E0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9B6325D-E795-4CE1-8338-C9C1511F8E0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9B6325D-E795-4CE1-8338-C9C1511F8E0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9B6325D-E795-4CE1-8338-C9C1511F8E0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9B6325D-E795-4CE1-8338-C9C1511F8E0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF987D8C-C21D-4446-B78C-BC28B83A6E0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF987D8C-C21D-4446-B78C-BC28B83A6E0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF987D8C-C21D-4446-B78C-BC28B83A6E0A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BF987D8C-C21D-4446-B78C-BC28B83A6E0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF987D8C-C21D-4446-B78C-BC28B83A6E0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF987D8C-C21D-4446-B78C-BC28B83A6E0A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1287D470-01FB-46CF-9535-FE5369D936A8}
+	EndGlobalSection
+EndGlobal
